@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カミサマ・ネコサマ",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2025-12-27T01:49:41.969282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カミサマ・ネコサマ",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/01_カミサマ・ネコサマ_猫又おかゆ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カミサマ・ネコサマ",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_カミサマ・ネコサマ_猫又おかゆ.txt"
+    }
+  ]
+}
